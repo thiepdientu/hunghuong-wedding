@@ -762,8 +762,8 @@ select {
 /* DRESS CODE */
 .dresscode {
    padding: 20px 0;
-    background-color: #3b3b3b;
-    color: wheat;
+    background-color: #3b3b3b00;
+    color: #000000;
 }
 .dress-code-container {
     padding: 40px;
