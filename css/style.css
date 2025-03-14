@@ -799,9 +799,7 @@ main{
   align-items: center;
    height: 50vh;
 }
-.dresscode {
-	margin-top: 80px;
-}
+
 .section-message {color: black; !important}
 .message-container {color: black; !important}
 .message-container .section-title {color: black; !important}
